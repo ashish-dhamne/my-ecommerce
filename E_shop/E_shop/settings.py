@@ -34,7 +34,7 @@ EMAIL_HOST_USER = 'ashishdhamne27gmail.com'
 EMAIL_HOST_PASSWORD = 'efaowjmaganmhgog' 
 EMAIL_USE_TLS = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['.vercel.app']
 
 
 # Application definition
